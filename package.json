@@ -2,13 +2,26 @@
   "name": "net-exceptions",
   "version": "0.0.0",
   "description": "Provides lightweight versions of the most important exceptions from Microsoft's .NET",
-  "author": {
-    "name": "Manuel Thalmann",
-    "email": "m@nuth.ch"
-  },
-  "keywords": [],
+  "author": "Manuel Thalmann <m@nuth.ch>",
+  "license": "MIT",
+  "keywords": [
+    ".NET",
+    "Exceptions"
+  ],
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuth/NetExceptions.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manuth/NetExceptions.js/issues"
+  },
+  "homepage": "https://github.com/manuth/NetExceptions.js#readme",
   "scripts": {
     "build": "tsc -p .",
     "rebuild": "npm run clean && npm run build",
