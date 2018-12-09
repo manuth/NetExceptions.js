@@ -1,0 +1,44 @@
+{
+  "name": "net-exceptions",
+  "version": "1.0.0",
+  "description": "Provides lightweight versions of the most important exceptions from Microsoft's .NET",
+  "author": "Manuel Thalmann <m@nuth.ch>",
+  "license": "MIT",
+  "keywords": [
+    ".NET",
+    "Exceptions"
+  ],
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuth/NetExceptions.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manuth/NetExceptions.js/issues"
+  },
+  "homepage": "https://github.com/manuth/NetExceptions.js#readme",
+  "scripts": {
+    "build": "tsc -p .",
+    "rebuild": "npm run clean && npm run build",
+    "watch": "tsc -p . --watch",
+    "clean": "rimraf ./lib",
+    "lint": "tslint -p ./ -t verbose",
+    "test": "mocha",
+    "prepare": "npm run rebuild"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/mocha": "^5.2.5",
+    "@types/node": "^10.12.12",
+    "mocha": "^5.2.0",
+    "rimraf": "^2.6.2",
+    "tslint": "^5.11.0",
+    "typescript": "^3.2.2",
+    "typescript-tslint-plugin": "^0.1.2"
+  }
+}
