@@ -7,13 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## NetExceptions.js v1.0.1
   - Improve the stability
 
-[Show differences][v1.0.1]
+[Show differences](https://github.com/manuth/NetExceptions.js/compare/v1.0.0...v1.0.1)
 
 ## NetExceptions.js v1.0.0
   - First release of the module
 
-[Show differences][v1.0.0]
-
-<!--- References -->
-[v1.0.0]: https://github.com/manuth/NetExceptions.js/compare/30df5a3...v1.0.0
-[v1.0.1]: https://github.com/manuth/NetExceptions.js/compare/v1.0.0...v1.0.1
+[Show differences](https://github.com/manuth/NetExceptions.js/compare/30df5a34e4b5732f60c3f196b474249998434de0...v1.0.0)
