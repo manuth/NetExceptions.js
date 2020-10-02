@@ -5,7 +5,6 @@
   "author": "Manuel Thalmann <m@nuth.ch>",
   "license": "MIT",
   "keywords": [
-    ".NET",
     "Exceptions"
   ],
   "main": "lib/index.js",
