@@ -16,17 +16,6 @@ export class KeyNotFoundException extends Exception
      */
     public constructor(message?: string, innerException?: Exception)
     {
-        switch (arguments.length)
-        {
-            case 0:
-                super();
-                break;
-            case 1:
-                super(message);
-                break;
-            case 2:
-                super (message, innerException);
-                break;
-        }
+        super(message, innerException);
     }
 }
