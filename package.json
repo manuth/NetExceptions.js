@@ -1,11 +1,10 @@
 {
-  "name": "net-exceptions",
-  "version": "1.0.4",
+  "name": "@manuth/exceptions",
+  "version": "1.0.5",
   "description": "Provides lightweight versions of the most important exceptions from Microsoft's .NET",
   "author": "Manuel Thalmann <m@nuth.ch>",
   "license": "MIT",
   "keywords": [
-    ".NET",
     "Exceptions"
   ],
   "main": "lib/index.js",

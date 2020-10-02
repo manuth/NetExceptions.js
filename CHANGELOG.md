@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## NetExceptions.js [Unreleased]
+
+[Show differences](https://github.com/manuth/NetExceptions.js/compare/v1.0.5...dev)
+
+## NetExceptions.js v1.0.5
+### Updated
+  - The development environment
+  - All dependencies
+
+[Show differences](https://github.com/manuth/NetExceptions.js/compare/v1.0.4...v1.0.5)
+
 ## NetExceptions.js v1.0.4
   - Update all dependencies
 
