@@ -1,5 +1,3 @@
-import { isNullOrUndefined } from "util";
-
 /**
  * Represents errors that occur during application execution.
  */
@@ -68,12 +66,15 @@ export class Exception extends Error
 
     /**
      * When overridden in a derived class, returns the Exception that is the root cause of one or more subsequent exceptions.
+     *
+     * @returns
+     * The exception which is the root cause of this exception.
      */
     public GetBaseException(): Exception
     {
         let exception: Exception = this;
 
-        while (!isNullOrUndefined(exception.InnerException))
+        while (exception.InnerException !== null && exception.InnerException !== undefined)
         {
             exception = exception.InnerException;
         }
