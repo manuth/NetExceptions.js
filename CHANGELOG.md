@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## NetExceptions.js v1.0.6
 ### Fixed
   - Broken dependabot-settings
-  - Vulnerabilities
+  - Vulnerabilities in dependencies
 
 ### Updated
   - All dependencies
