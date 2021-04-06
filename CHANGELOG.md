@@ -6,7 +6,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## NetExceptions.js [Unreleased]
 
-[Show differences](https://github.com/manuth/NetExceptions.js/compare/v1.0.7...dev)
+[Show differences](https://github.com/manuth/NetExceptions.js/compare/v1.0.8...dev)
+
+## NetExceptions.js v1.0.8
+### Fixed
+  - Broken drone-pipelines
+  - Broken Auto-Merge workflow
+
+### Updated
+  - All dependencies
+  - Drone-pipelines to use small-sized images
+
+[Show differences](https://github.com/manuth/NetExceptions.js/compare/v1.0.7...v1.0.8)
 
 ## NetExceptions.js v1.0.7
 ### Fixed
