@@ -1,6 +1,6 @@
 {
   "name": "@manuth/exceptions",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Provides lightweight versions of the most important exceptions from Microsoft's .NET",
   "author": "Manuel Thalmann <m@nuth.ch>",
   "license": "MIT",
