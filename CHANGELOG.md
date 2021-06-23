@@ -5,13 +5,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## NetExceptions.js [Unreleased]
+
+[Show differences](https://github.com/manuth/NetExceptions.js/comparev/v1.0.10...dev)
+
+## NetExceptions.js v1.0.10
 ### Fixed
   - Vulnerabilities in dependencies
 
 ### Updated
   - All dependencies
 
-[Show differences](https://github.com/manuth/NetExceptions.js/comparev1.0.9...dev)
+[Show differences](https://github.com/manuth/NetExceptions.js/comparev/v1.0.9...v1.0.10)
 
 ## NetExceptions.js v1.0.9
 ### Fixed
