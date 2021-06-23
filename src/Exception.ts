@@ -14,7 +14,7 @@ export class Exception extends Error
     private innerException: Exception = null;
 
     /**
-     * Initializes a new instance of the `Exception` class.
+     * Initializes a new instance of the {@link Exception `Exception`} class.
      *
      * @param message
      * A message that describes the current exception.
