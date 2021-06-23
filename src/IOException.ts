@@ -6,7 +6,7 @@ import { Exception } from "./Exception";
 export class IOException extends Exception
 {
     /**
-     * Initializes a new instance of the `IOException` class.
+     * Initializes a new instance of the {@link IOException `IOException`} class.
      *
      * @param message
      * A message that describes the current exception.

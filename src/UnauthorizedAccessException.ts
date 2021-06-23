@@ -6,7 +6,7 @@ import { Exception } from "./Exception";
 export class UnauthorizedAccessException extends Exception
 {
     /**
-     * Initializes a new instance of the `UnauthorizedAccessException`.
+     * Initializes a new instance of the {@link UnauthorizedAccessException `UnauthorizedAccessException`} class.
      *
      * @param message
      * A message that describes the current exception.

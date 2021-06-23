@@ -12,7 +12,7 @@ export class FileNotFoundException extends IOException
     private fileName: string;
 
     /**
-     * Initializes a new instance of the `FileNotFoundException` class.
+     * Initializes a new instance of the {@link FileNotFoundException `FileNotFoundException`} class.
      *
      * @param message
      * A message that describes the current exception.

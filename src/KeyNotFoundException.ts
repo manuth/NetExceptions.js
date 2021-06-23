@@ -6,7 +6,7 @@ import { Exception } from "./Exception";
 export class KeyNotFoundException extends Exception
 {
     /**
-     * Initialized a new instance of the `KeyNotFoundException` class.
+     * Initialized a new instance of the {@link KeyNotFoundException `KeyNotFoundException`} class.
      *
      * @param message
      * A message that describes the current exception.

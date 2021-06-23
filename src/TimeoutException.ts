@@ -6,7 +6,7 @@ import { Exception } from "./Exception";
 export class TimeoutException extends Exception
 {
     /**
-     * Initializes a new instance of the `TimeoutException` class.
+     * Initializes a new instance of the {@link TimeoutException `TimeoutException`} class.
      *
      * @param message
      * A message that describes the current exception.

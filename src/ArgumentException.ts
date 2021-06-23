@@ -11,7 +11,7 @@ export class ArgumentException extends Exception
     private paramName: string;
 
     /**
-     * Initializes a new instance of the `ArgumentException` class.
+     * Initializes a new instance of the {@link ArgumentException `ArgumentException`} class.
      *
      * @param message
      * The error message that explains the reason for the exception.

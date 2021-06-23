@@ -12,7 +12,7 @@ export class CultureNotFoundException extends ArgumentException
     private invalidCultureName: string;
 
     /**
-     * Initializes a new instance of the `CultureNotFoundException` class.
+     * Initializes a new instance of the {@link CultureNotFoundException `CultureNotFoundException`} class.
      *
      * @param message
      * The error message that explains the reason for the exception.
