@@ -36,7 +36,6 @@
     "prepare": "npm run patchTypeScript && npm run rebuild",
     "patchTypeScript": "ts-patch install && ts-patch --persist"
   },
-  "dependencies": {},
   "devDependencies": {
     "@manuth/eslint-plugin-typescript": "^3.2.5",
     "@manuth/tsconfig": "^2.0.3",
@@ -46,6 +45,7 @@
     "@types/ts-nameof": "^4.2.1",
     "eslint": "^7.32.0",
     "mocha": "^9.1.0",
+    "random-js": "^2.1.0",
     "rimraf": "^3.0.2",
     "source-map-support": "^0.5.19",
     "ts-nameof": "^5.0.0",
