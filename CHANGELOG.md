@@ -5,6 +5,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## NetExceptions.js [Unreleased]
+### Fixed
+  - Vulnerabilities in dependencies
+  - Broken publish-scripts
+
+### Added
+  - Support for the Test Explorer UI
+  - Support for `ts-nameof`
+  - Support for parallel step-execution in drone-pipelines
+  - Unit-tests
+
+### Updated
+  - All dependencies
 
 [Show differences](https://github.com/manuth/NetExceptions.js/comparev/v1.0.10...dev)
 
