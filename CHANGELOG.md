@@ -6,7 +6,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## NetExceptions.js [Unreleased]
 
-[Show differences](https://github.com/manuth/NetExceptions.js/comparev/v1.0.10...dev)
+[Show differences](https://github.com/manuth/NetExceptions.js/comparev/v1.0.11...dev)
+
+## NetExceptions.js v1.0.11
+### Fixed
+  - Vulnerabilities in dependencies
+  - Broken publish-scripts
+
+### Added
+  - Support for the Test Explorer UI
+  - Support for `ts-nameof`
+  - Support for parallel step-execution in drone-pipelines
+  - Unit-tests
+
+### Updated
+  - All dependencies
+
+[Show differences](https://github.com/manuth/NetExceptions.js/comparev/v1.0.10...v1.0.11)
 
 ## NetExceptions.js v1.0.10
 ### Fixed
