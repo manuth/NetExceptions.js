@@ -1,4 +1,4 @@
-import { doesNotThrow, strictEqual } from "assert";
+import { doesNotThrow, strictEqual } from "node:assert";
 import { Random } from "random-js";
 import { Exception } from "../Exception.js";
 import { UnauthorizedAccessException } from "../UnauthorizedAccessException.js";
