@@ -1,7 +1,7 @@
 import { doesNotThrow, strictEqual } from "assert";
 import { Random } from "random-js";
-import { Exception } from "../Exception";
-import { UnauthorizedAccessException } from "../UnauthorizedAccessException";
+import { Exception } from "../Exception.js";
+import { UnauthorizedAccessException } from "../UnauthorizedAccessException.js";
 
 /**
  * Registers tests for the {@link UnauthorizedAccessException `UnauthorizedAccessException`} class.

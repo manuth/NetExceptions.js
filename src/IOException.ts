@@ -1,4 +1,4 @@
-import { Exception } from "./Exception";
+import { Exception } from "./Exception.js";
 
 /**
  * The exception that is thrown when an I/O error occurs.

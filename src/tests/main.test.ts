@@ -1,11 +1,11 @@
-import { ArgumentExceptionTests } from "./ArgumentException.test";
-import { CultureNotFoundExceptionTests } from "./CultureNotFoundException.test";
-import { ExceptionTests } from "./Exception.test";
-import { FileNotFoundExceptionTests } from "./FileNotFoundException.test";
-import { IOExceptionTests } from "./IOException.test";
-import { KeyNotFoundExceptionTests } from "./KeyNotFoundException.test";
-import { TimeoutExceptionTests } from "./TimeoutException.test";
-import { UnauthorizedAccessExceptionTests } from "./UnauthorizedAccessException.test";
+import { ArgumentExceptionTests } from "./ArgumentException.test.js";
+import { CultureNotFoundExceptionTests } from "./CultureNotFoundException.test.js";
+import { ExceptionTests } from "./Exception.test.js";
+import { FileNotFoundExceptionTests } from "./FileNotFoundException.test.js";
+import { IOExceptionTests } from "./IOException.test.js";
+import { KeyNotFoundExceptionTests } from "./KeyNotFoundException.test.js";
+import { TimeoutExceptionTests } from "./TimeoutException.test.js";
+import { UnauthorizedAccessExceptionTests } from "./UnauthorizedAccessException.test.js";
 
 suite(
     "NetExceptions.js",

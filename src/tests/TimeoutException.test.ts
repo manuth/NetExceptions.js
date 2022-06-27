@@ -1,7 +1,7 @@
 import { doesNotThrow, strictEqual } from "assert";
 import { Random } from "random-js";
-import { Exception } from "../Exception";
-import { TimeoutException } from "../TimeoutException";
+import { Exception } from "../Exception.js";
+import { TimeoutException } from "../TimeoutException.js";
 
 /**
  * Registers tests for the {@link TimeoutException `TimeoutException`} class.

@@ -1,6 +1,6 @@
 import { doesNotThrow, ok, strictEqual } from "assert";
 import { Random } from "random-js";
-import { Exception } from "../Exception";
+import { Exception } from "../Exception.js";
 
 /**
  * Registers tests for the {@link Exception `Exception`} class.

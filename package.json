@@ -1,6 +1,7 @@
 {
   "name": "@manuth/exceptions",
   "version": "1.0.13",
+  "type": "module",
   "description": "Provides lightweight versions of the most important exceptions from Microsoft's .NET",
   "author": "Manuel Thalmann <m@nuth.ch>",
   "license": "MIT",
@@ -29,7 +30,7 @@
     "rebuild": "npm run clean && npm run build",
     "watch": "npm run build -- --watch",
     "clean": "npm run build -- --clean && rimraf ./lib",
-    "lint": "eslint --max-warnings 0 ./src .eslintrc.js",
+    "lint": "eslint --max-warnings 0 ./src .eslintrc.cjs",
     "lint-ide": "npm run lint || exit 0",
     "test": "mocha",
     "prepare": "npm run patchTypeScript && npm run rebuild",

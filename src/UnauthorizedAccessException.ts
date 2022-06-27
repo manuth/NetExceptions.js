@@ -1,4 +1,4 @@
-import { Exception } from "./Exception";
+import { Exception } from "./Exception.js";
 
 /**
  * The exception that is thrown when the operating system denies access because of an I/O error or a specific type of security error.
