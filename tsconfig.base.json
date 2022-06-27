@@ -2,14 +2,11 @@
     "extends": "@manuth/tsconfig/recommended",
     "compilerOptions": {
         "declaration": true,
-        "module": "CommonJS",
+        "module": "Node16",
         "lib": [
             "ES2020"
         ],
         "plugins": [
-            {
-                "name": "@manuth/typescript-eslint-plugin"
-            },
             {
                 "transform": "ts-nameof",
                 "type": "raw"

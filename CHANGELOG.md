@@ -6,7 +6,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## NetExceptions.js [Unreleased]
 
-[Show differences](https://github.com/manuth/NetExceptions.js/comparev/v1.0.12...dev)
+[Show differences](https://github.com/manuth/NetExceptions.js/comparev/v1.0.13...dev)
+
+## NetExceptions.js v1.0.13
+### Fixed
+  - Vulnerabilities in dependencies
+
+### Updated
+  - All dependencies
+  - Drone pipeline for checking the integrity of the changelog file
+
+[Show differences](https://github.com/manuth/NetExceptions.js/comparev/v1.0.12...v1.0.13)
 
 ## NetExceptions.js v1.0.12
 ### Fixed
