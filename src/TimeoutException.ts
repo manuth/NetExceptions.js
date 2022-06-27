@@ -1,4 +1,4 @@
-import { Exception } from "./Exception";
+import { Exception } from "./Exception.js";
 
 /**
  * The exception that is thrown when the time allotted for a process or operation has expired.

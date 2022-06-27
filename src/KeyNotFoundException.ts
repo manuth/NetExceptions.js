@@ -1,4 +1,4 @@
-import { Exception } from "./Exception";
+import { Exception } from "./Exception.js";
 
 /**
  * The exception that is thrown when the key specified for accessing an element in a collection does not match any key in the collection.

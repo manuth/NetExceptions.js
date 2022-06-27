@@ -1,5 +1,5 @@
-import { ArgumentException } from "./ArgumentException";
-import { Exception } from "./Exception";
+import { ArgumentException } from "./ArgumentException.js";
+import { Exception } from "./Exception.js";
 
 /**
  * The exception that is thrown when a method attempts to construct a culture that is not available.

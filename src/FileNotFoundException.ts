@@ -1,5 +1,5 @@
-import { Exception } from "./Exception";
-import { IOException } from "./IOException";
+import { Exception } from "./Exception.js";
+import { IOException } from "./IOException.js";
 
 /**
  * The exception that is thrown when an attempt to access a file that does not exist on disk fails.

@@ -1,7 +1,7 @@
-import { doesNotThrow, strictEqual } from "assert";
+import { doesNotThrow, strictEqual } from "node:assert";
 import { Random } from "random-js";
-import { CultureNotFoundException } from "../CultureNotFoundException";
-import { Exception } from "../Exception";
+import { CultureNotFoundException } from "../CultureNotFoundException.js";
+import { Exception } from "../Exception.js";
 
 /**
  * Registers tests for the {@link CultureNotFoundException `CultureNotFoundException`} class.

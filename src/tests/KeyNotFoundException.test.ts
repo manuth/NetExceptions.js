@@ -1,7 +1,7 @@
-import { doesNotThrow, strictEqual } from "assert";
+import { doesNotThrow, strictEqual } from "node:assert";
 import { Random } from "random-js";
-import { Exception } from "../Exception";
-import { KeyNotFoundException } from "../KeyNotFoundException";
+import { Exception } from "../Exception.js";
+import { KeyNotFoundException } from "../KeyNotFoundException.js";
 
 /**
  * Registers tests for the {@link KeyNotFoundException `KeyNotFoundException`} class.

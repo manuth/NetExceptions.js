@@ -6,7 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## NetExceptions.js [Unreleased]
 
-[Show differences](https://github.com/manuth/NetExceptions.js/comparev/v1.0.13...dev)
+[Show differences](https://github.com/manuth/NetExceptions.js/comparev/v2.0.0...dev)
+
+## NetExceptions.js v2.0.0
+### Breaking
+  - Convert package to an ESModule
+
+[Show differences](https://github.com/manuth/NetExceptions.js/comparev/v1.0.13...v2.0.0)
 
 ## NetExceptions.js v1.0.13
 ### Fixed

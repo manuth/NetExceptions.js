@@ -1,8 +1,8 @@
-export { ArgumentException } from "./ArgumentException";
-export { CultureNotFoundException } from "./CultureNotFoundException";
-export { Exception } from "./Exception";
-export { FileNotFoundException } from "./FileNotFoundException";
-export { IOException } from "./IOException";
-export { KeyNotFoundException } from "./KeyNotFoundException";
-export { TimeoutException } from "./TimeoutException";
-export { UnauthorizedAccessException } from "./UnauthorizedAccessException";
+export { ArgumentException } from "./ArgumentException.js";
+export { CultureNotFoundException } from "./CultureNotFoundException.js";
+export { Exception } from "./Exception.js";
+export { FileNotFoundException } from "./FileNotFoundException.js";
+export { IOException } from "./IOException.js";
+export { KeyNotFoundException } from "./KeyNotFoundException.js";
+export { TimeoutException } from "./TimeoutException.js";
+export { UnauthorizedAccessException } from "./UnauthorizedAccessException.js";

@@ -1,7 +1,7 @@
-import { doesNotThrow, strictEqual } from "assert";
+import { doesNotThrow, strictEqual } from "node:assert";
 import { Random } from "random-js";
-import { Exception } from "../Exception";
-import { IOException } from "../IOException";
+import { Exception } from "../Exception.js";
+import { IOException } from "../IOException.js";
 
 /**
  * Registers tests for the {@link IOException `IOException`} class.
